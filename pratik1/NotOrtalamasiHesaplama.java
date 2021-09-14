@@ -32,7 +32,7 @@ public class NotOrtalamasiHesaplama {
 
         boolean bool = ortalama >= 60;
         System.out.println(bool == true ? "Sınıfı Geçti" : "Sınıfta Kaldı");
-
+        
     }
 
 }
